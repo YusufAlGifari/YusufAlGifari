@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YusufAlGifari
-- 👀 I’m interested in WebDevelopment
+- 👀 I’m interested in Linux
 - 🌱 I’m currently learning Network Engineering,WebDevelopment, System Management. CyberSec.
 - 💞️ I’m looking to collaborate on Everything
 - 📫 How to reach me @yzfalgf on IG 
